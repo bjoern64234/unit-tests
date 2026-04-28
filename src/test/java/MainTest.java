@@ -79,6 +79,7 @@ class MainTest {
 
     @ParameterizedTest
     @CsvSource({
+            "1",
             "2",
             "3",
             "5"
